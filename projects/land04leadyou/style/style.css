@@ -1,0 +1,12 @@
+* {
+    font-family: Assistant;
+}
+
+:root {
+    --bs-primary-rgb: 15, 83, 128;
+}
+
+.bg-image {
+    background: url(../images/Path15.png) no-repeat center center/cover;
+    padding: 15% 0;
+}

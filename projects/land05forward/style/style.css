@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo");
+body {
+  font-family: "Heebo", sans-serif;
+  margin: 0;
+}
+
+.background {
+  background-image: url(../images/7a5ac59f-f495-4e5e-be44-87bffb87258e.jfif);
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+}
+
+.container {
+  background-color: #000000;
+  position: absolute;
+  padding: 20px;
+  color: #FFFFFF;
+  text-align: center;
+  right: 12.1rem;
+  width: 18rem;
+  top: 15rem;
+  box-shadow: 0 10px 40px pink;
+}
+
+h2 {
+  font-size: 23px;
+  color: #FFFFFF;
+  margin-bottom: 10px;
+  padding: 0 20px;
+}
+
+p {
+  font-size: 15px;
+  color: #FFFFFF;
+  padding: 0 20px;
+}
+
+form {
+  background-color: #000000;
+  padding: 30px 20px 40px 20px;
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+input[type=text],
+input[type=email] {
+  margin-bottom: 20px;
+  padding: 5px;
+  background-color: #FFFFFF;
+  color: #000000;
+  border: 2px solid #D31C75;
+  direction: rtl;
+  text-align: right;
+  width: 15rem;
+}
+
+button {
+  background-color: #D31C75;
+  color: #FFFFFF;
+  padding: 5px 20px;
+  border: none;
+  cursor: pointer;
+  width: 5.5rem;
+  margin-left: auto;
+  align-self: flex-end;
+}
+
+@media screen and (max-width: 525px) {
+  .container {
+    min-width: 58%;
+    left: 50%;
+    transform: translateX(50%);
+  }
+}/*# sourceMappingURL=style.css.map */
