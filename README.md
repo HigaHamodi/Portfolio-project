@@ -14,7 +14,7 @@ HTML5
 CSS3
 JavaScript
 Getting Started
-To view the Portfolio Landing Page, you can visit the live version by clicking here. Alternatively, if you want to run the project locally, follow the steps below:
+To view the Portfolio Landing Page, you can visit the live version by [clicking here](https://higahamodi.github.io/Portfolio-project/). Alternatively, if you want to run the project locally, follow the steps below:
 
 Clone the repository:
 
