@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
             imgUrl: './assests/jsimg/xo.png',
             title: 'Tic-Tac-Toe Game',
             description: 'Enjoy hours of fun and challenge your friends and family with our Tic-Tac-Toe game.',
-            projectLink: './jsprojects/Xo/index.html',
+            projectLink: '.jsprojects/XO/index.html',
         },
     ];
     
