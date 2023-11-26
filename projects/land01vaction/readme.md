@@ -6,6 +6,7 @@ Welcome to the "Vacation" Landing Page project! Discover your dream vacation jus
 
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
+- [View the Vacation Landing Page](#view-the-vacation-landing-page)
 - [Contact](#contact)
 
 ## Introduction
@@ -16,6 +17,10 @@ The "Vacation" Landing Page is designed to captivate visitors with the promise o
 
 - HTML5
 - CSS3
+
+## View the Vacation Landing Page
+
+To view the "Vacation" Landing Page, simply click [here](https://higahamodi.github.io/Portfolio-project/projects/land01vaction/index.html).
 
 ## Contact
 
